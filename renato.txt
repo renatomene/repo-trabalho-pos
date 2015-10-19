@@ -1,0 +1,7 @@
+nome:Renato menegasso
+endereço:rua:oratório sn
+profissão:suporte
+empresa:trier sistemas
+cep:88870000
+Bairro:centro
+municipio:Orleans
